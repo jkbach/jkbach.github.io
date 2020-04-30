@@ -1,0 +1,13 @@
+body {
+	font-family: "Courier New";
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+img {
+	max-width: 100%
+}
+
+.strikeout {
+	text-decoration: line-through;
+}
